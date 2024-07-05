@@ -132,3 +132,4 @@ data/
 
 *.png
 .DS_Store
+.idea/
